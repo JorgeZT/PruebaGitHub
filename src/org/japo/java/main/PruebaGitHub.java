@@ -7,7 +7,7 @@ package org.japo.java.main;
 
 /**
  *
- * @author CicloM
+ * @author Jorge Zarzoso Torres
  */
 public class PruebaGitHub {
 
